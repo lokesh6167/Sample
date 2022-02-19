@@ -1,1 +1,2 @@
 Git is a power VCS tool.
+I am using this now for cloning from GitHub.....s
